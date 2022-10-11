@@ -15,5 +15,5 @@ elif user_greeting == "eastern":
 elif user_greeting == "western":
   print("Chea, what up braaaaah")
 else:
-  print("Howdy y\'all")
+  print("Howdy y\'all from the South")
   
